@@ -1,0 +1,10 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text opacity="0.9" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="6" stroke-width="0" id="svg_1" y="9" x="3.59777" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="6" stroke-width="0" id="svg_2" y="12.48045" x="12.20112" fill="#000000"/>
+  <text transform="matrix(2.79874 0 0 3.07686 -3.09629 -5.59401)" stroke="null" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="6" id="svg_3" y="6.59525" x="1.19314" stroke-width="0" fill="#396849">MI</text>
+  <text transform="matrix(1.65943 0 0 1.95467 3.0955 -4.35587)" stroke="null" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="6" id="svg_4" y="8.48158" x="9.68607" stroke-width="0" fill="#2D6862">MI</text>
+  <text transform="matrix(2.86742 0 0 3.09636 -42.9573 -54.8398)" stroke="null" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="6" id="svg_5" y="27.18341" x="16.59094" stroke-width="0" fill="#84D3DB">NO</text>
+ </g>
+</svg>
