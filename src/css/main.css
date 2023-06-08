@@ -9,36 +9,5 @@
 
 /* base */
 @import url('./base/reset.css');
+@import url('./pages/header.css');
 
-/* component */
-@import url('./component/container.css');
-
-/* layout */
-@import url('./layout/header.css');
-@import url('./layout/about.css');
-@import url('./layout/hero.css');
-@import url('./layout/welcome.css');
-@import url('./layout/location.css');
-@import url('./layout/footer.css');
-/* hotel */
-@import url('./layout/hotel/hero.css');
-@import url('./layout/hotel/double-luxury-room.css');
-@import url('./layout/hotel/triple-room.css');
-@import url('./layout/hotel/four-seater-room.css');
-/* restaurant */
-@import url('./layout/restaurant/about.css');
-@import url('./layout/restaurant/hero.css');
-@import url('./layout/restaurant/menu.css');
-/* room-page */
-@import url('./layout/room-page/hero.css');
-@import url('./layout/room-page/amenities.css');
-
-/* pages */
-@import url('./pages/hotels.css');
-@import url('./pages/restaurants.css');
-@import url('./pages/room.css');
-
-/* modal */
-@import url('./modal/book-room-modal.css');
-@import url('./modal/book-table-modal.css');
-@import url('./modal/prices-room-modal.css');

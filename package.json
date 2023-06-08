@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project/",
+    "build": "vite build --base=/finally-project-team-8-js/",
     "preview": "vite preview"
   },
   "devDependencies": {

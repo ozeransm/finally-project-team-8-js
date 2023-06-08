@@ -1,0 +1,8 @@
+.header{
+    display: flex;
+    gap: 20px;
+}
+.nav-list{
+    display: flex;
+    gap: 20px;
+}
