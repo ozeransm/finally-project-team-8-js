@@ -8,9 +8,17 @@
 }
 
 .galery{
+    width: auto;
     display: flex;
     flex-wrap: wrap;
 }
 .item{
-    width: 250px;
+    display: flex;
+    /* width: auto; */
+}
+.item > img{
+    width: 70vw;
+}
+.item > div{
+    width: 500px;
 }
