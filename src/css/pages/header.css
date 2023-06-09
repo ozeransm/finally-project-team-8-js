@@ -6,3 +6,11 @@
     display: flex;
     gap: 20px;
 }
+
+.galery{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+    width: 250px;
+}
