@@ -22,3 +22,15 @@
 .item > div{
     width: 500px;
 }
+.month-title{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+
+/* identical to box height */
+    text-transform: uppercase;
+
+/* White */
+    color: black;
+}

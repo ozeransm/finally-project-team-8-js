@@ -27,10 +27,10 @@ async function genreStr(arr){
 
 async function markUp(data){
     
-    const randCard = Math.floor(Math.random() * 21);
+    const randCard = Math.floor(Math.random() * 20);
     data.data.results.map(async ({backdrop_path ,original_title, id, release_date, vote_average, vote_count, popularity, overview, genre_ids},i)=>{
         
-        if (i===randCard)
+        // if (i===randCard)
         {
             const str = `<div class="item"><img src="${BASE_IMG_URL}${backdrop_path}" alt="${original_title}"><div><h1>${original_title}</h1><h2>Release date ${release_date}</h2><h2>Vote / Votes ${vote_average} / ${vote_count }</h2><h2>Popularity ${popularity}</h2><h2>${await genreStr(genre_ids)}</h2><p>About ${overview}</p></div></div>`;
             refs.galery.insertAdjacentHTML('beforeend', str);
